@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonFetch</string>
+    <string name="splash_screen_tv">Splash Screen</string>
+</resources>
